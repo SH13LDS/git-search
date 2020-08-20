@@ -26,7 +26,7 @@ const Search = () => {
         <input
           type='text'
           name='text'
-          placeholder='Search users...'
+          placeholder='Explore Github users and repos...'
           value={text}
           onChange={onChange}
         />
